@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">ProvaSub</string>
+    <string name="quilometragem_atual">Quilometragem_atual</string>
+    <string name="dia_abastecido">Dia abastecido</string>
+    <string name="salvar">Salvar</string>
+    <string name="valor_pago">Valor pago</string>
+    <string name="quantidade_abastecida">Quantidade_abastecida</string>
 </resources>
